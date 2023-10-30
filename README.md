@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Görkem Aydoğdu</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Properland](https://www.figma.com/community/file/1233045158698144250/Real-Estate-Webflow-Website-Template)
-
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Typescript**
 
 - 📫 How to reach me **gorkem_aydogdu15@hotmail.com**
 
